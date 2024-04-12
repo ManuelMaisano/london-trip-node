@@ -1,8 +1,8 @@
 <template>
     <header>
         <h1>Il mio viaggio a Londra</h1>
-        <img src="/public/images/pexels-bill-emrich-230794-0.jpg" alt=""><img src="/public/images/pexels-bill-emrich-230794-1.jpg"
-            alt=""><img src="/public/images/pexels-bill-emrich-230794-2.jpg" alt="">
+        <img src="/images/pexels-bill-emrich-230794-0.jpg" alt=""><img src="/images/pexels-bill-emrich-230794-1.jpg"
+            alt=""><img src="/images/pexels-bill-emrich-230794-2.jpg" alt="">
         <hr>
     </header>
 
