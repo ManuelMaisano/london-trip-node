@@ -1,14 +1,18 @@
 <template>
-  <h1 class="text-center">Ciao</h1>
-  <i class="fa fa-solid fa-home"></i>
+  <HeaderComponent />
 </template>
 
 <script>
-  export default {
-    name: 'App'
-  }
+import HeaderComponent from './components/HeaderComponent.vue';
+
+export default {
+  name: 'App',
+  components: {
+    HeaderComponent,
+  },
+};
 </script>
 
 <style lang="scss" scoped>
-
+/* Add your SCSS styles here */
 </style>
