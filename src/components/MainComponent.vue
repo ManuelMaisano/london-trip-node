@@ -33,7 +33,7 @@
                     </tr>
                 </tfoot>
             </table> <!--fine tabella-->
-        </section>
+        
         <hr>
 
         <h3>Cose da fare</h3> <!--seconda sezione di main-->
